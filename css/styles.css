@@ -1,0 +1,71 @@
+/*body{
+    background-image: url(download.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}*/
+#header{
+    left: 250px;
+    text-align: center;
+    position: absolute;
+    text-shadow: blue;
+    width: 900px;
+    height: 350px;
+    color: rgb(56, 6, 16);
+    font-style: italic;
+    font-weight: normal;
+    -webkit-text-size-adjust: 50%;
+    top: 50px;
+}
+<<<<<<< HEAD
+.container{
+         margin-left: 5px;
+         margin-top: 140px;
+         display: flex;
+         justify-content: space-around;
+         background-color: brown;
+         color: burlywood;
+}
+.container>p{
+    border: 4px;
+    width: 100px;
+    height: 20px;
+}
+.container>p:hover{
+    background-color: black;
+    color: green;
+}
+#properties{
+    justify-content: space-between;
+    display: flex;
+    font-size: 20px;
+    opacity: 2;
+}
+h2{
+    background-color: grey;
+    opacity: 1;
+    margin-top: 20px;
+    text-align: center;
+}
+#contacts{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 400px;
+    height: 350;
+    float: left;
+    }
+.categories h2 p{
+    font-weight: 400;
+}
+p{
+    font-size: 19px;
+}
+
+    
+
+=======
+body{
+   background-color: aqua;
+   
+}
+>>>>>>> 0be2cfa3a0e614c6bf39426a23c6e27f4ffa4d7d
