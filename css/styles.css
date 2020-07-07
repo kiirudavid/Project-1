@@ -3,6 +3,8 @@
     background-size: cover;
     background-repeat: no-repeat;
 }*/
+
+/* STYLING THE HEADER*/
 #header{
     left: 250px;
     text-align: center;
@@ -10,13 +12,13 @@
     text-shadow: blue;
     width: 900px;
     height: 350px;
-    color: rgb(56, 6, 16);
+    color: rgb(64, 255, 0);
     font-style: italic;
     font-weight: normal;
     -webkit-text-size-adjust: 50%;
     top: 50px;
 }
-<<<<<<< HEAD
+ /*STYLING CLASS CONTAINER*/
 .container{
          margin-left: 5px;
          margin-top: 140px;
@@ -25,14 +27,16 @@
          background-color: brown;
          color: burlywood;
 }
+/*STYLING P IN CONTAINER*/
 .container>p{
     border: 4px;
     width: 100px;
     height: 20px;
 }
+/*INTRODUCING HOVER*/
 .container>p:hover{
     background-color: black;
-    color: green;
+    color: ivory;
 }
 #properties{
     justify-content: space-between;
@@ -40,11 +44,13 @@
     font-size: 20px;
     opacity: 2;
 }
+/*STYLING ALL HEADINGS 2*/
 h2{
     background-color: grey;
     opacity: 1;
     margin-top: 20px;
     text-align: center;
+    color: ivory;
 }
 #contacts{
     background-color: black;
@@ -59,13 +65,12 @@ h2{
 }
 p{
     font-size: 19px;
+    text-size-adjust: 30px;
+}
+li{
+    font-size: 19px;
+    position: relative;
 }
 
     
 
-=======
-body{
-   background-color: aqua;
-   
-}
->>>>>>> 0be2cfa3a0e614c6bf39426a23c6e27f4ffa4d7d
